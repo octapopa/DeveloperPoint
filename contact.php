@@ -5,7 +5,7 @@
 <body>
 	<div class="conteiner">
 		<div class="head">
-			<img src="">
+			<img src="/images/logo.png">
 		</div>
 		<div class="main-content">
 		</div>
