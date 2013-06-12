@@ -8,6 +8,10 @@ img {
 	height: 180px;
 }
 
+header{
+	overflow: hidden;
+}
+
 header h1{
 	font-size: 24px;
 }
@@ -17,7 +21,7 @@ article h2{
 }
 
 .article-inner{
-width: 100%;
+width: 2000px;
 padding: 10px 0;
 display: inline-block;
 color: #555555;
